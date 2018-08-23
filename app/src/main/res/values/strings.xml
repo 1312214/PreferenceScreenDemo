@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PreferenceScreenDemo</string>
+
+    <array name="color">
+        <item>red</item>
+        <item>green</item>
+        <item>blue</item>
+        <item>yellow</item>
+        <item>white</item>
+    </array>
+
+</resources>
